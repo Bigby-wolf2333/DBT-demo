@@ -1,11 +1,11 @@
 This is a project to practice DBT for BigQuery depolyment.
 
-### Using the starter project
+## Content
+- Model
+- Macro
+- Test
+- Yaml
+- Snapshot
 
-Try running the following commands:
-- dbt run
-- dbt test
-
-
-### BigQuery:
+## BigQuery Layer:
 <img alt="image" src="BigQuery.png">
